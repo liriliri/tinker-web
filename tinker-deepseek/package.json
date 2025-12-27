@@ -1,0 +1,13 @@
+{
+  "name": "tinker-deepseek",
+  "version": "0.1.0",
+  "description": "DeepSeek plugin for TINKER",
+  "tinker": {
+    "name": "DeepSeek",
+    "main": "https://chat.deepseek.com",
+    "icon": "icon.png"
+  },
+  "keywords": [
+    "tinker"
+  ]
+}
