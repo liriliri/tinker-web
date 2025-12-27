@@ -1,0 +1,18 @@
+{
+  "name": "tinker-weread",
+  "version": "0.1.0",
+  "description": "WeRead plugin for TINKER",
+  "tinker": {
+    "name": "WeRead",
+    "main": "https://weread.qq.com",
+    "icon": "icon.png",
+    "locales": {
+      "zh-CN": {
+        "name": "微信读书"
+      }
+    }
+  },
+  "keywords": [
+    "tinker"
+  ]
+}

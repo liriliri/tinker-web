@@ -8,5 +8,6 @@ All plugins in the list can be installed to TINKER by running `npm i -g tinker-x
 
 * [DeepSeek](tinker-deepseek): tinker-deepseek
 * [Doubao](tinker-doubao): tinker-doubao
+* [WeRead](tinker-weread): tinker-weread
 * [Yuanbao](tinker-yuanbao): tinker-yuanbao
 * [YouTube](tinker-youtube): tinker-youtube
