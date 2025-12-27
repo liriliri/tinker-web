@@ -1,0 +1,13 @@
+{
+  "name": "tinker-youtube",
+  "version": "0.1.0",
+  "description": "YouTube plugin for TINKER",
+  "tinker": {
+    "name": "YouTube",
+    "main": "https://www.youtube.com",
+    "icon": "icon.png"
+  },
+  "keywords": [
+    "tinker"
+  ]
+}
