@@ -1,0 +1,13 @@
+{
+  "name": "tinker-photopea",
+  "version": "0.1.0",
+  "description": "Photopea plugin for TINKER",
+  "tinker": {
+    "name": "Photopea",
+    "main": "https://www.photopea.com",
+    "icon": "icon.png"
+  },
+  "keywords": [
+    "tinker"
+  ]
+}
