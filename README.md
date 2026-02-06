@@ -9,6 +9,7 @@ All plugins in the list can be installed to TINKER by running `npm i -g tinker-x
 * [DeepSeek](tinker-deepseek): tinker-deepseek
 * [Doubao](tinker-doubao): tinker-doubao
 * [Photopea](tinker-photopea): tinker-photopea
+* [Qianwen](tinker-qianwen): tinker-qianwen
 * [QQMail](tinker-qqmail): tinker-qqmail
 * [WeRead](tinker-weread): tinker-weread
 * [Yuanbao](tinker-yuanbao): tinker-yuanbao
